@@ -2,7 +2,7 @@
 Suckless way, because to configure program as i want, i need to edit a source code
 
 # Terms
-The changes in the code are signed as // FORKED: <change index>
+The changes in the code are signed as // FORKED: change_index
 
 # Fork provides
  - 0: Helix counts '_' as space
